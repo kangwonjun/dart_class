@@ -12,7 +12,7 @@ abstract class Person{
     work(){
       print('Developers are developing.');
     }
-  } 
+
 
 
   abstract class Junior {
@@ -20,3 +20,4 @@ abstract class Person{
 
     business();
   }
+
